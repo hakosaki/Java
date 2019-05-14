@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3820d128-2ad7-4322-a3d1-e9c875cf7423" name="Default Changelist" comment="" />
+    <list default="true" id="3820d128-2ad7-4322-a3d1-e9c875cf7423" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../CodeGuider/RobotWalk/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CodeGuider/RobotWalk/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeGuider/RobotWalk/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CodeGuider/RobotWalk/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeGuider/changeCoins/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CodeGuider/changeCoins/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeGuider/changeCoins/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CodeGuider/changeCoins/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeGuider/changeCoins/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../CodeGuider/changeCoins/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +31,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/getMaxSubArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="835">
+            <state relative-caret-position="1197">
               <caret line="63" column="9" selection-start-line="63" selection-start-column="9" selection-end-line="63" selection-end-column="9" />
             </state>
           </provider>
@@ -43,6 +51,9 @@
       <find>maxnum[0]</find>
       <find>minnum[0]</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -81,11 +92,13 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -102,7 +115,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -110,7 +122,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557554434016" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../String" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -201,16 +213,17 @@
       <workItem from="1557553749022" duration="633000" />
       <workItem from="1557634459319" duration="1450000" />
       <workItem from="1557714276267" duration="918000" />
+      <workItem from="1557815983875" duration="178000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62514000" />
+    <option name="totallyTimeSpent" value="62692000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2867804" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28997868" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -377,7 +390,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/getMaxSubArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="835">
+        <state relative-caret-position="1197">
           <caret line="63" column="9" selection-start-line="63" selection-start-column="9" selection-end-line="63" selection-end-column="9" />
         </state>
       </provider>
