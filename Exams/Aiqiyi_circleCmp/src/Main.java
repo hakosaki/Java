@@ -1,6 +1,12 @@
 import java.util.Scanner;
 
 public class Main {
+    /**
+     * 整数a，重复次数k1，整数b，重复次数k2，比较两数大小
+     * 输入 1010 3 101010 2
+     * 输出 Equal
+     * a>b输出Greater,  a<b输出Less
+     * */
     public static String circleCmp(int a,int k1,int b,int k2){
         String sa = new String();
         String sb = new String();
