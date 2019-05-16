@@ -1,3 +1,4 @@
+import java.util.LinkedList;
 import java.util.Stack;
 
 public class BinaryTree {
@@ -40,6 +41,7 @@ public class BinaryTree {
     public boolean buildTree(int[] arr){
         if(arr==null||arr.length<=0)
             return false;
+        this.root = null;
         for(int i=0;i<arr.length;i++)
             insert(arr[i]);
         return true;
@@ -143,6 +145,75 @@ public class BinaryTree {
            }
        }
     }
+    /*
+    * 层序遍历
+    * */
+    public void layer(){
+        if(this.root==null)
+            return;
+        LinkedList<Node> list = new LinkedList<>();
+        list.add(root);
+        while(!list.isEmpty()){
+            Node cur = list.pop();
+            System.out.print(cur.data+" ");
+            if(cur.left!=null)
+                list.add(cur.left);
+            if(cur.right!=null)
+                list.add(cur.right);
+        }
+    }
+    /*
+    * 先、中序建树求后序
+    * */
+    public void initTree(int[] pre,int[] in){
+        this.root = this.initTree(pre,0,pre.length-1,in,0,in.length-1);
+    }
+    public Node initTree(int[] pre,int start1,int end1,int[] in,int start2,int end2){
+        if(start1>end1 || start2>end2)
+            return null;
+        int data = pre[start1];
+        Node root = new Node(data);
+        int rootPos = findPos(in,data,start2,end2);
+        int offSet = rootPos - start2 - 1;
+        Node left = initTree(pre,start1+1,start1+1+offSet,in,start2,start2+offSet);
+        Node right = initTree(pre,start1+2+offSet,end1,in,rootPos+1,end2);
+        root.left = left;
+        root.right = right;
+        return root;
+    }
+    private int findPos(int[] in,int data,int start,int end){
+        for(int i=start;i<=end;i++){
+            if(in[i]==data)
+                return i;
+        }
+        return -1;
+    }
+    /*
+    * 求二叉树节点的最大距离
+    * 三种情况：
+    * 1.左子树节点最大距离
+    * 2.右子树节点最大距离
+    * 3.经过根+左最深+右最深
+    *
+    * 存在 左子树最大距离 比 根+左最深+右最深 大，因为二叉树有可能不平衡
+    * */
+    public int getMaxDistance(){
+        int[] depth = new int[1];
+        int max = getMaxDistance(root,depth);
+        return max;
+    }
+    private int getMaxDistance(Node cur,int[] depth){
+        if(cur==null){
+            depth[0] = 0;
+            return 0;
+        }
+        int leftMax = getMaxDistance(cur.left,depth);
+        int leftDepth = depth[0];
+        int rightMax = getMaxDistance(cur.right,depth);
+        int rightDepth = depth[0];
+        depth[0] = Math.max(leftDepth+1,rightDepth+1);
+        return Math.max(Math.max(leftMax,rightMax),leftDepth+rightDepth+1);
+    }
 
     public static void main(String[] args){
         BinaryTree bt = new BinaryTree();
@@ -163,5 +234,16 @@ public class BinaryTree {
         System.out.print("后序遍历2： ");
         bt.post1();
         System.out.println();
+        System.out.print("层序遍历： ");
+        bt.layer();
+        System.out.println();
+        int[] pre = {2,1,8,7,4,3,6,5,7,9};
+        int[] in = {1,2,3,4,5,6,7,7,8,9};
+        bt.initTree(pre,in);
+        bt.post();
+        System.out.println();
+        int[] arr1 = {2,5,4,3,6,7};
+        System.out.println(bt.buildTree(arr1));
+        System.out.println(bt.getMaxDistance());
     }
 }
