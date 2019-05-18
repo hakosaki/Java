@@ -101,6 +101,7 @@ public class Main {
             ends[l] = arr[i];
             dp[i] = l + 1;
         }
+        System.out.println(Arrays.toString(ends));
         return dp;
     }
 
@@ -220,8 +221,8 @@ public class Main {
     }
     public static void main(String[] args) {
         Main main = new Main();
-//        int[] arr = {2,1,5,3,6,4,8,9,7,10};
-        int[] arr = {9,8,7,6,5,4,3};
+        int[] arr = {2,1,5,3,6,4,8,9,7,10};
+//        int[] arr = {9,8,7,6,5,4,3};
         int[] result1 = main.lis1(arr);
         int[] result2 = main.lis2(arr);
         System.out.println(Arrays.toString(result1));

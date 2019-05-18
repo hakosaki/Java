@@ -2,6 +2,9 @@ import java.util.HashMap;
 import java.util.Scanner;
 
 public class Main {
+    /**
+     * 删除字符串中重复字符，只保留一个
+     * */
     public String cancelRepeat(String s){
         if(s==null||s.length()==0)
             return null;

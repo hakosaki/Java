@@ -2,11 +2,52 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3820d128-2ad7-4322-a3d1-e9c875cf7423" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_CancelRepeat/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CodeGuider/LongestIncreaseSubstring/out/production/LongestIncreaseSubstring/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CodeGuider/balloonGrade/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CodeGuider/balloonGrade/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CodeGuider/balloonGrade/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CodeGuider/balloonGrade/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CodeGuider/balloonGrade/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CodeGuider/balloonGrade/balloonGrade.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CodeGuider/balloonGrade/out/production/balloonGrade/balloonGrade.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CodeGuider/balloonGrade/src/balloonGrade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_MinSortStep/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_MinSortStep/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_MinSortStep/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_MinSortStep/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_MinSortStep/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_MinSortStep/Aiqiyi_MinSortStep.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_MinSortStep/out/production/Aiqiyi_MinSortStep/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_MinSortStep/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_PalindromicPrimeNumber/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_PalindromicPrimeNumber/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_PalindromicPrimeNumber/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_PalindromicPrimeNumber/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_PalindromicPrimeNumber/Aiqiyi_PalindromicPrimeNumber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_PalindromicPrimeNumber/out/production/Aiqiyi_PalindromicPrimeNumber/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_cancelRepeat/out/production/Aiqiyi_CancelRepeat/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_flyTimes/out/production/Aiqiyi_flyTimes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_reduceCharNum/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_reduceCharNum/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_reduceCharNum/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_reduceCharNum/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_reduceCharNum/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_reduceCharNum/Aiqiyi_reduceCharNum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_reduceCharNum/out/production/Aiqiyi_reduceCharNum/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_reduceCharNum/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_reduceCharNum/src/reduceCharNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeGuider/LongestIncreaseSubstring/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CodeGuider/LongestIncreaseSubstring/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeGuider/LongestIncreaseSubstring/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../CodeGuider/LongestIncreaseSubstring/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CodeGuider/LongestIncreaseSubstring/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../CodeGuider/LongestIncreaseSubstring/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exams/Aiqiyi_CancelRepeat/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_CancelRepeat/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exams/Aiqiyi_CancelRepeat/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_CancelRepeat/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exams/Aiqiyi_CancelRepeat/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_CancelRepeat/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exams/Aiqiyi_PalindromicPrimeNumber/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_PalindromicPrimeNumber/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exams/Aiqiyi_flyTimes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_flyTimes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exams/Aiqiyi_flyTimes/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_flyTimes/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BinaryTree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BinaryTree/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BinaryTree/out/production/BinaryTree/BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../BinaryTree/out/production/BinaryTree/BinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BinaryTree/src/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BinaryTree/src/BinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../String/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,7 +58,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/getMinDistance.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/findMostFrequent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="38" selection-start-line="9" selection-start-column="4" selection-end-line="38" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/isContinuous.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="27" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/getReverseCount.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/getMinABS.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
@@ -63,49 +143,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/findMostFrequent.java">
+        <entry file="file://$PROJECT_DIR$/src/mergeSortArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="24" column="42" selection-end-line="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/findOnce.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/findSum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/getDiff.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/shift_k.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" selection-start-line="2" selection-end-line="34" selection-end-column="1" />
+            <state relative-caret-position="171">
+              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -138,7 +179,6 @@
         <option value="$PROJECT_DIR$/src/findSum.java" />
         <option value="$PROJECT_DIR$/src/shift_k.java" />
         <option value="$PROJECT_DIR$/src/findkMin.java" />
-        <option value="$PROJECT_DIR$/src/findOnce.java" />
         <option value="$PROJECT_DIR$/src/findDuplication.java" />
         <option value="$PROJECT_DIR$/src/getDvalue.java" />
         <option value="$PROJECT_DIR$/src/secondMax.java" />
@@ -151,17 +191,18 @@
         <option value="$PROJECT_DIR$/src/findMaxMin.java" />
         <option value="$PROJECT_DIR$/src/getMaxSubArray.java" />
         <option value="$PROJECT_DIR$/src/getMinDistance.java" />
-        <option value="$PROJECT_DIR$/src/findMostFrequent.java" />
         <option value="$PROJECT_DIR$/src/getReverseCount.java" />
         <option value="$PROJECT_DIR$/src/tmp.java" />
         <option value="$PROJECT_DIR$/src/getSubString.java" />
         <option value="$PROJECT_DIR$/src/getDiff.java" />
+        <option value="$PROJECT_DIR$/src/findOnce.java" />
+        <option value="$PROJECT_DIR$/src/findMostFrequent.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-33" />
-    <option name="y" value="93" />
+    <option name="x" value="-4" />
+    <option name="y" value="49" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -171,6 +212,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -188,13 +230,12 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557980994072" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557995414474" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -290,18 +331,19 @@
       <workItem from="1557898727087" duration="660000" />
       <workItem from="1557902796100" duration="86000" />
       <workItem from="1557973935559" duration="3749000" />
-      <workItem from="1557984454771" duration="1301000" />
+      <workItem from="1557984454771" duration="3511000" />
+      <workItem from="1558081525849" duration="651000" />
+      <workItem from="1558160743169" duration="190000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68488000" />
+    <option name="totallyTimeSpent" value="71539000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30277187" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30916846" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -358,45 +400,66 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/getSubString.java" />
-    <entry file="file://$PROJECT_DIR$/src/mergeSortArray.java">
+    <entry file="file://$PROJECT_DIR$/src/findSecondMax.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        <state relative-caret-position="190">
+          <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/isContinuous.java">
+    <entry file="file://$PROJECT_DIR$/src/findOnce.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/getReverseCount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="912">
-          <caret line="48" column="21" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/getMinDistance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        <state relative-caret-position="399">
+          <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/getIntersection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="32" column="66" selection-start-line="32" selection-start-column="66" selection-end-line="32" selection-end-column="66" />
+        <state relative-caret-position="342">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/findSecondMax.java">
+    <entry file="file://$PROJECT_DIR$/src/findSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+        <state relative-caret-position="266">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/getDiff.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shift_k.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="34" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/getMinDistance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/isContinuous.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="27" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/getReverseCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -435,41 +498,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/mergeSortArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/findMostFrequent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="24" column="42" selection-end-line="39" />
+        <state relative-caret-position="247">
+          <caret line="13" column="38" selection-start-line="9" selection-start-column="4" selection-end-line="38" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/findOnce.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/findSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/getDiff.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/shift_k.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="34" selection-end-column="1" />
         </state>
       </provider>
     </entry>
