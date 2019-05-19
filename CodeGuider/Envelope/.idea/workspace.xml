@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="020a1e10-5e6b-4eed-a53c-0cdc52607dec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../CodeGuider/Envelope/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CodeGuider/Envelope/src/Envelope.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Aiqiyi_Triangle/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Aiqiyi_Triangle/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Aiqiyi_colorSort/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Aiqiyi_colorSort/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Aiqiyi_getMaxNum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aiqiyi_getMaxNum/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8e255d51-44f7-46ee-9fea-456085c57524" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Envelope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exams/Aiqiyi_getMaxNum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_getMaxNum/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,10 +16,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/Envelope.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="304">
-              <caret line="16" column="29" selection-end-line="50" />
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -44,13 +43,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/Envelope.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-33" />
-    <option name="y" value="93" />
+    <option name="x" value="-4" />
+    <option name="y" value="49" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -60,26 +59,30 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Aiqiyi_circleCmp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Aiqiyi_circleCmp" type="462c0819:PsiDirectoryNode" />
+              <item name="Envelope" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Envelope" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Envelope" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557824778864" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558187916976" />
+    <property name="last_opened_file_path" value="D:/Git/bin/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -97,16 +100,16 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Aiqiyi_circleCmp" />
+    <configuration name="Envelope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Envelope" />
+      <module name="Envelope" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Envelope" />
       </list>
     </recent_temporary>
   </component>
@@ -115,32 +118,23 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="020a1e10-5e6b-4eed-a53c-0cdc52607dec" name="Default Changelist" comment="" />
-      <created>1557823583343</created>
+      <changelist id="8e255d51-44f7-46ee-9fea-456085c57524" name="Default Changelist" comment="" />
+      <created>1558182080582</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1557823583343</updated>
-      <workItem from="1557823586753" duration="1193000" />
-      <workItem from="1557897797892" duration="48000" />
-      <workItem from="1558245602896" duration="457000" />
+      <updated>1558182080582</updated>
+      <workItem from="1558182083404" duration="3965000" />
+      <workItem from="1558241314610" duration="459000" />
     </task>
-    <task id="LOCAL-00001" summary="2 new exams">
-      <created>1557824623881</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1557824623881</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1698000" />
+    <option name="totallyTimeSpent" value="4424000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -174,15 +168,14 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="2 new exams" />
-    <option name="LAST_COMMIT_MESSAGE" value="2 new exams" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/Envelope.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
-          <caret line="16" column="29" selection-end-line="50" />
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
