@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f9b50625-e3c1-408b-afb8-48ebf486b08c" name="Default Changelist" comment="" />
+    <list default="true" id="e9022afd-107f-4ab2-89a5-011ae6b28757" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hanoi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exams/Aiqiyi_eatGrass/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_eatGrass/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,10 +16,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/hanoi.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+            <state relative-caret-position="171">
+              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -36,7 +40,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/hanoi.java" />
       </list>
     </option>
   </component>
@@ -57,13 +61,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="Aiqiyi_eatGrass" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Aiqiyi_eatGrass" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Aiqiyi_eatGrass" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Aiqiyi_eatGrass" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="hanoi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hanoi" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -75,7 +74,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558248660576" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558277461286" />
     <property name="last_opened_file_path" value="D:/Git/bin/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -94,16 +93,16 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Aiqiyi_eatGrass" />
+    <configuration name="hanoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hanoi" />
+      <module name="hanoi" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.hanoi" />
       </list>
     </recent_temporary>
   </component>
@@ -112,18 +111,18 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f9b50625-e3c1-408b-afb8-48ebf486b08c" name="Default Changelist" comment="" />
-      <created>1558246057281</created>
+      <changelist id="e9022afd-107f-4ab2-89a5-011ae6b28757" name="Default Changelist" comment="" />
+      <created>1558248972971</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1558246057281</updated>
-      <workItem from="1558246060633" duration="2480000" />
-      <workItem from="1558248918657" duration="56000" />
+      <updated>1558248972971</updated>
+      <workItem from="1558248976865" duration="4113000" />
+      <workItem from="1558317759503" duration="613000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2536000" />
+    <option name="totallyTimeSpent" value="4726000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -163,10 +162,10 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/hanoi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+        <state relative-caret-position="171">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
         </state>
       </provider>
     </entry>
