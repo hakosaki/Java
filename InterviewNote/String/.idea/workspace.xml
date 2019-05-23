@@ -2,18 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="120feada-a300-425c-9338-399a806c7de8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_PalindromicPrimeNumber/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_PalindromicPrimeNumber/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_PalindromicPrimeNumber/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_PalindromicPrimeNumber/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_PalindromicPrimeNumber/Aiqiyi_PalindromicPrimeNumber.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exams/Aiqiyi_CancelRepeat/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_CancelRepeat/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exams/Aiqiyi_CancelRepeat/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_CancelRepeat/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exams/Aiqiyi_CancelRepeat/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_CancelRepeat/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exams/Aiqiyi_PalindromicPrimeNumber/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_PalindromicPrimeNumber/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exams/Aiqiyi_flyTimes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_flyTimes/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Exams/Aiqiyi_flyTimes/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_flyTimes/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CodeGuider/isCross/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CodeGuider/isCross/src/isCross.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CodeGuider/minRemixCost/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CodeGuider/minRemixCost/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_bracketDepth/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_bracketDepth/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_bracketMatch/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_bracketMatch/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_choseNumber/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_choseNumber/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_countReverse/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_countReverse/src/countReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ForOffer/6.LinkList/src/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ForOffer/6.LinkList/src/linkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ForOffer/7.reConstructBinaryTree/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ForOffer/7.reConstructBinaryTree/src/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ForOffer/7.reConstructBinaryTree/src/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ForOffer/7.reConstructBinaryTree/src/reConstructBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ForOffer/8.bTreeNextNode/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ForOffer/8.bTreeNextNode/src/getNext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ForOffer/9.twoStackTOQueue/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ForOffer/9.twoStackTOQueue/src/twoQueueToStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ForOffer/9.twoStackTOQueue/src/twoStackToQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ForOffer/3.duplicate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ForOffer/3.duplicate/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ForOffer/4.Find/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ForOffer/4.Find/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ForOffer/4.Find/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ForOffer/4.Find/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ForOffer/4.Find/out/production/Find/Find.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ForOffer/4.Find/out/production/Find/Find.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ForOffer/4.Find/src/Find.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ForOffer/4.Find/src/Find.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ForOffer/5.ReplaceSpace/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ForOffer/5.ReplaceSpace/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ForOffer/5.ReplaceSpace/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ForOffer/5.ReplaceSpace/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ForOffer/5.ReplaceSpace/out/production/5.ReplaceSpace/ReplaceSpace.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ForOffer/5.ReplaceSpace/out/production/5.ReplaceSpace/ReplaceSpace.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ForOffer/5.ReplaceSpace/src/ReplaceSpace.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ForOffer/5.ReplaceSpace/src/ReplaceSpace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ForOffer/6.LinkList/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ForOffer/6.LinkList/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ForOffer/6.LinkList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ForOffer/6.LinkList/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ForOffer/6.LinkList/out/production/6.LinkList/LinkList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ForOffer/6.LinkList/out/production/6.LinkList/LinkList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ForOffer/6.LinkList/out/production/6.LinkList/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ForOffer/6.LinkList/out/production/6.LinkList/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ForOffer/6.LinkList/src/LinkList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ForOffer/6.LinkList/src/LinkList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ForOffer/6.LinkList/src/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ForOffer/6.LinkList/src/ListNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Arrays/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/out/production/Arrays/getReverseCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays/out/production/Arrays/getReverseCount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/out/production/Arrays/getSubString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/src/getReverseCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays/src/getReverseCount.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,15 +76,15 @@
         <entry file="file://$PROJECT_DIR$/src/swapString.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="304">
-              <caret line="16" column="30" lean-forward="true" selection-end-line="30" />
+              <caret line="16" column="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/getSubString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1387">
+            <state relative-caret-position="1330">
               <caret line="73" column="34" selection-start-line="73" selection-start-column="34" selection-end-line="73" selection-end-column="34" />
             </state>
           </provider>
@@ -72,17 +102,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/isSameChar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+            <state relative-caret-position="361">
+              <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/getAllComb.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="114">
-              <caret line="24" column="30" lean-forward="true" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+              <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -128,7 +158,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -145,6 +174,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -152,7 +182,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557553714108" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BinaryTree" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -240,16 +270,17 @@
       <workItem from="1557816163371" duration="158000" />
       <workItem from="1557898706304" duration="19000" />
       <workItem from="1557995755182" duration="1427000" />
+      <workItem from="1558595095366" duration="319000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22491000" />
+    <option name="totallyTimeSpent" value="22810000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28997868" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29317698" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -298,31 +329,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/getSubString.java">
+    <entry file="file://$PROJECT_DIR$/src/removeDuplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1387">
-          <caret line="73" column="34" selection-start-line="73" selection-start-column="34" selection-end-line="73" selection-end-column="34" />
+        <state relative-caret-position="190">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/swapString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
-          <caret line="16" column="30" lean-forward="true" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/isSameChar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/removeDuplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <caret line="16" column="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
@@ -333,13 +350,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/isSameChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/getAllComb.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
-          <caret line="24" column="30" lean-forward="true" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/getSubString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1330">
+          <caret line="73" column="34" selection-start-line="73" selection-start-column="34" selection-end-line="73" selection-end-column="34" />
         </state>
       </provider>
     </entry>

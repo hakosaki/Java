@@ -1,27 +1,35 @@
 public class ReplaceSpace {
+    /**
+     * 字符串空格用%20代替
+     * 时间复杂度要求O（n）
+     *
+     * StringBuffer
+     * 遍历第一遍遇空格加两字符
+     * 长度相等直接返回
+     * 长度不等，从末尾依次替换
+     * */
     public String replaceSpace(StringBuffer str) {
-        int originLength = str.length();
-        if(originLength <= 0 || str == null)
-            return str.toString();
-        for(int i = 0; i < originLength; i++){
+        if(str==null||str.length()<=0)
+            return "";
+        int n = str.length();
+        for(int i=0;i<n;i++){
             if(str.charAt(i)==' ')
                 str.append("  ");
         }
-        int newLength = str.length();
-        if(newLength == originLength)
+        int r = str.length();
+        if(r==n)
             return str.toString();
-        int originEnd = originLength - 1;
-        int newEnd = newLength - 1;
-       // while(originEnd != newEnd){
-        while(originEnd >= 0 && newEnd > originEnd){
-            if(str.charAt(originEnd) == ' '){
-                str.setCharAt(newEnd--, '0');
-                str.setCharAt(newEnd--, '2');
-                str.setCharAt(newEnd--, '%');
+        int end1 = n-1;
+        int end2 = r-1;
+        while(end1!=end2){
+            if(str.charAt(end1)==' '){
+                str.setCharAt(end2--,'0');
+                str.setCharAt(end2--,'2');
+                str.setCharAt(end2--,'%');
             }else{
-                str.setCharAt(newEnd--, str.charAt(originEnd));
+                str.setCharAt(end2--,str.charAt(end1));
             }
-            --originEnd;
+            end1--;
         }
         return str.toString();
     }
@@ -32,8 +40,3 @@ public class ReplaceSpace {
        System.out.println(strResult);
     }
 }
-/*
-* str.charAt
-* str.setCharAt( , )
-* StringBuffer str = new StringBuffer("");
-* */

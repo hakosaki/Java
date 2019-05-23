@@ -1,3 +1,6 @@
+import java.lang.reflect.Array;
+import java.util.Arrays;
+
 public class getReverseCount {
     /**
      * 数组中反序对个数
@@ -24,46 +27,44 @@ public class getReverseCount {
         if(arr==null||arr.length<=1)
             return 0;
         int reverseCount[] = {0};
-        mergeSort(arr,0,arr.length-1,reverseCount);
+        int[] copy = new int[arr.length];
+        mergeSort(arr,copy,0,arr.length-1,reverseCount);
+//        System.out.println(Arrays.toString(copy));
         return reverseCount[0];
     }
-    private void mergeSort(int[] arr,int begin,int end,int[] count){
+    private void mergeSort(int[] arr,int[] copy,int begin,int end,int[] count){
         if(begin<end){
             int mid = (begin+end)>>1;
-            mergeSort(arr,begin,mid,count);
-            mergeSort(arr,mid+1,end,count);
-            merge(arr,begin,mid,end,count);
+            mergeSort(arr,copy,begin,mid,count);
+            mergeSort(arr,copy,mid+1,end,count);
+            merge(arr,copy,begin,mid,end,count);
         }
     }
-    private void merge(int[] arr,int begin,int mid,int end,int[] count){
-        int len1 = mid-begin+1;
-        int len2 = end-mid;
-        int i,j,k;
-        int[] l = new int[len1];
-        int[] r = new int[len2];
-        for(i=0,k=begin;i<len1;i++,k++)
-            l[i] = arr[k];
-        for(j=0,k=mid+1;j<len2;j++,k++)
-            r[j] = arr[k];
-        for(i=0,j=0,k=begin;i<len1&&j<len2;k++){
-            if(l[i]<=r[j])
-                arr[k] = l[i++];
-            else{
-                count[0]+= mid-i+1;
-                arr[k] = r[j++];
+    private void merge(int[] arr,int[] copy,int begin,int mid,int end,int[] count){
+        int i = begin;
+        int j = mid+1;
+        int k = begin;
+        while(i<=mid && j<=end){
+            if(arr[i]>arr[j]){
+                copy[k++] = arr[j++];
+                count[0] += mid-i+1;
+            }else{
+                copy[k++] = arr[i++];
             }
         }
-        if(i<len1)
-            for(j=i;j<len1;j++,k++)
-                arr[k] = l[j];
-        if(j<len2)
-            for(i=j;i<len2;i++,k++)
-                arr[k] = r[i];
+        while(i<=mid){
+            copy[k++] = arr[i++];
+        }
+        while(j<=end){
+            copy[k++] = arr[j++];
+        }
+        for(i=begin;i<k;i++)
+            arr[i] = copy[i];
     }
 
     public static void main(String[] args){
         getReverseCount r = new getReverseCount();
-        int[] arr = {1,5,3,3,6};
+        int[] arr = {7,2,2,13,5,5,2};
         System.out.println(r.reverseCount1(arr));
         System.out.println(r.reverseCount2(arr));
     }

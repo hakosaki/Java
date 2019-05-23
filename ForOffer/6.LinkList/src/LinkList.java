@@ -1,18 +1,17 @@
-import sun.plugin.javascript.navig.Link;
-
 import java.util.ArrayList;
-import java.util.Hashtable;
-import java.util.LinkedList;
 import java.util.Stack;
 
 public class LinkList {
+    /**
+     * 一刷
+     * */
     private ListNode head;
     private ListNode tail;
     /*
     * 链表末加节点
     * */
     public void add(Integer data){
-        if(this.head == null){
+        if(head == null){
             head = new ListNode(data);
             tail = head;
         } else {
