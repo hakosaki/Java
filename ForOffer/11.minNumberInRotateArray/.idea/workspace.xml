@@ -1,60 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e073f8ee-e536-45d1-ad93-b6903c6e9a8c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../CodeGuider/isCross/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CodeGuider/isCross/src/isCross.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CodeGuider/minRemixCost/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CodeGuider/minRemixCost/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_bracketDepth/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_bracketDepth/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_bracketMatch/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_bracketMatch/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_choseNumber/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_choseNumber/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_countReverse/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_countReverse/src/countReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_squareString/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Exams/Aiqiyi_squareString/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../10.Fibonacci/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../10.Fibonacci/src/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../10.Fibonacci/src/JumpFloor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../10.Fibonacci/src/JumpFloorII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../10.Fibonacci/src/RectCover.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ageSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../6.LinkList/src/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../6.LinkList/src/linkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../7.reConstructBinaryTree/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../7.reConstructBinaryTree/src/BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../7.reConstructBinaryTree/src/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../7.reConstructBinaryTree/src/reConstructBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8.bTreeNextNode/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../8.bTreeNextNode/src/getNext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../9.twoStackTOQueue/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../9.twoStackTOQueue/src/twoQueueToStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../9.twoStackTOQueue/src/twoStackToQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.duplicate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3.duplicate/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.Find/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../4.Find/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.Find/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../4.Find/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.Find/out/production/Find/Find.class" beforeDir="false" afterPath="$PROJECT_DIR$/../4.Find/out/production/Find/Find.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.Find/src/Find.java" beforeDir="false" afterPath="$PROJECT_DIR$/../4.Find/src/Find.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.ReplaceSpace/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../5.ReplaceSpace/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.ReplaceSpace/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../5.ReplaceSpace/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.ReplaceSpace/out/production/5.ReplaceSpace/ReplaceSpace.class" beforeDir="false" afterPath="$PROJECT_DIR$/../5.ReplaceSpace/out/production/5.ReplaceSpace/ReplaceSpace.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.ReplaceSpace/src/ReplaceSpace.java" beforeDir="false" afterPath="$PROJECT_DIR$/../5.ReplaceSpace/src/ReplaceSpace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../6.LinkList/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../6.LinkList/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../6.LinkList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../6.LinkList/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../6.LinkList/out/production/6.LinkList/LinkList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../6.LinkList/out/production/6.LinkList/LinkList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../6.LinkList/out/production/6.LinkList/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../6.LinkList/out/production/6.LinkList/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../6.LinkList/src/LinkList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../6.LinkList/src/LinkList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../6.LinkList/src/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../6.LinkList/src/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../InterviewNote/Arrays/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../InterviewNote/Arrays/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../InterviewNote/Arrays/out/production/Arrays/getReverseCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../InterviewNote/Arrays/out/production/Arrays/getReverseCount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../InterviewNote/Arrays/out/production/Arrays/getSubString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../InterviewNote/Arrays/src/getReverseCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../InterviewNote/Arrays/src/getReverseCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../InterviewNote/String/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../InterviewNote/String/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e073f8ee-e536-45d1-ad93-b6903c6e9a8c" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,12 +10,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/quickSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="6" column="38" lean-forward="true" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+            <state relative-caret-position="114">
+              <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -77,7 +24,7 @@
         <entry file="file://$PROJECT_DIR$/src/ageSort.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="57">
-              <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -119,7 +66,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -136,6 +82,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -192,29 +139,23 @@
       <option name="presentableId" value="Default" />
       <updated>1558601088142</updated>
       <workItem from="1558601090748" duration="2020000" />
+      <workItem from="1558613247994" duration="44000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2020000" />
+    <option name="totallyTimeSpent" value="2064000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
@@ -222,15 +163,21 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,15 +186,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/quickSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="6" column="38" lean-forward="true" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        <state relative-caret-position="114">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ageSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
-          <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
